@@ -7,10 +7,10 @@ Gem::Specification.new do |spec|
   spec.name          = "pgtomsql"
   spec.version       = Pgtomsql::VERSION
   spec.authors       = ["Abhinav Khare"]
-  spec.email         = ["abhinav.khare@dreamorbit.com"]
+  spec.email         = ["abhinav.khare555@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because RubyGems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
+  spec.summary       = %q{A gem to get your data migrated from postgres to msql without much hassel.}
+  spec.description   = %q{Work in progress.}
   spec.homepage      = "TODO: Put your gem's website or public repo URL here."
   spec.license       = "MIT"
 
